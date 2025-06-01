@@ -9,7 +9,7 @@ Built with Tailwind CSS, the site showcases our core platform ideas, including:
 
 ## 🚀 Live Preview
 🔗 [https://whytrust.ai](https://whytrust.ai) *(via Replit custom domain)*  
-🔗 [GitHub Pages backup](https://yourusername.github.io/whytrust-site)
+🔗 [GitHub Pages backup](https://whytrustai.github.io/whytrust-site)
 
 ## 🛠 Tech Stack
 - HTML, Tailwind CSS
