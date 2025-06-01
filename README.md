@@ -8,7 +8,7 @@ Built with Tailwind CSS, the site showcases our core platform ideas, including:
 - 🌐 **AI Clean Room** for cross-tenant vector-safe collaboration
 
 ## 🚀 Live Preview
-🔗 [https://whytrust.ai](https://whytrust.ai) *(via Replit custom domain)*  
+🔗 [https://whytrust.ai](https://whytrust.ai) 
 🔗 [GitHub Pages backup](https://whytrustai.github.io/whytrust-site)
 
 ## 🛠 Tech Stack
